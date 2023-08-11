@@ -1,9 +1,9 @@
 # anomaly-detection
 My implementation of PatchCore, PaDim, and SPADE based on their papers with help from their respective github repositories by authors and more. 
 
-**PatchCore** Roth et al., Towards Total Recall in Industrial Anomaly Detection <br>
-**PaDim** Defard et al., PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization <br>
-**SPADE** Niv Cohen, Yedid Hoshen, Sub-Image Anomaly Detection with Deep Pyramid Correspondences <br>
+**(PatchCore)** Roth et al., Towards Total Recall in Industrial Anomaly Detection <br>
+**(PaDim)** Defard et al., PaDiM: a Patch Distribution Modeling Framework for Anomaly Detection and Localization <br>
+**(SPADE)** Niv Cohen, Yedid Hoshen, Sub-Image Anomaly Detection with Deep Pyramid Correspondences <br>
 
 ## Original images
 <p float="left">
