@@ -6,7 +6,6 @@ My implementation of PatchCore, PaDim, and SPADE with help from their respective
   <img src="notebook_results/og_images/2.png" width="200" /> 
   <img src="notebook_results/og_images/3.png" width="200" />
   <img src="notebook_results/og_images/4.png" width="200" />
-  <img src="notebook_results/og_images/5.png" width="200" />
 </p>
 
 # PatchCore
@@ -15,7 +14,6 @@ My implementation of PatchCore, PaDim, and SPADE with help from their respective
   <img src="notebook_results/PatchCore/2.png" width="200" /> 
   <img src="notebook_results/PatchCore/3.png" width="200" />
   <img src="notebook_results/PatchCore/4.png" width="200" />
-  <img src="notebook_results/PatchCore/5.png" width="200" />
 </p>
 
 # PaDim
@@ -24,7 +22,6 @@ My implementation of PatchCore, PaDim, and SPADE with help from their respective
   <img src="notebook_results/PaDim/2.png" width="200" /> 
   <img src="notebook_results/PaDim/3.png" width="200" />
   <img src="notebook_results/PaDim/4.png" width="200" />
-  <img src="notebook_results/PaDim/5.png" width="200" />
 </p>
 
 # SPADE
@@ -33,7 +30,6 @@ My implementation of PatchCore, PaDim, and SPADE with help from their respective
   <img src="notebook_results/SPADE/2.png" width="200" /> 
   <img src="notebook_results/SPADE/3.png" width="200" />
   <img src="notebook_results/SPADE/4.png" width="200" />
-  <img src="notebook_results/SPADE/5.png" width="200" />
 </p>
 
 
